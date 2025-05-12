@@ -37,10 +37,14 @@ Servis Takip Uygulaması, teknik servis süreçlerini dijitalleştirmek amacıyl
 
 https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
 
+## Giriş Sayfası
+<img width="284" alt="1" src="https://github.com/user-attachments/assets/88e0165a-de9d-45da-820d-82edba4400f2" />
+
 ## Ana Sayfa
 <img width="284" alt="2" src="https://github.com/user-attachments/assets/4ad7af0a-6b08-4271-bf4d-d0b7992e7ed7" />
 <img width="284" alt="3" src="https://github.com/user-attachments/assets/844a7438-595e-4778-9233-24b716b9a92a" />
-<img width="284" alt="1" src="https://github.com/user-attachments/assets/88e0165a-de9d-45da-820d-82edba4400f2" />
+
+## Ürün Ekleme
 <img width="284" alt="12" src="https://github.com/user-attachments/assets/2c783c77-9cf4-41af-81e6-11cc01d9429f" />
 <img width="284" alt="13" src="https://github.com/user-attachments/assets/dd8caf23-9c46-44b9-a751-b4b1fcf7f9cb" />
 <img width="284" alt="14" src="https://github.com/user-attachments/assets/513cab66-36df-434b-993a-0d91c13377c5" />
