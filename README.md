@@ -36,6 +36,8 @@ Servis Takip Uygulaması, teknik servis süreçlerini dijitalleştirmek amacıyl
 ## Görseller
 
 https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
+
+## Ana Sayfa
 <img width="284" alt="2" src="https://github.com/user-attachments/assets/4ad7af0a-6b08-4271-bf4d-d0b7992e7ed7" />
 <img width="284" alt="3" src="https://github.com/user-attachments/assets/844a7438-595e-4778-9233-24b716b9a92a" />
 <img width="284" alt="1" src="https://github.com/user-attachments/assets/88e0165a-de9d-45da-820d-82edba4400f2" />
@@ -46,7 +48,11 @@ https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
 <img width="284" alt="5" src="https://github.com/user-attachments/assets/c1591a48-742b-4d10-b152-8ecb10a13fec" />
 <img width="284" alt="7" src="https://github.com/user-attachments/assets/bd3d910e-d994-4151-b8ff-1dcee998bb85" />
 <img width="284" alt="4" src="https://github.com/user-attachments/assets/e2bea9c3-41a2-4b85-88b2-9239124e60ea" />
+
+## Profil Ekranı
 <img width="284" alt="6" src="https://github.com/user-attachments/assets/1d3bbce4-be29-4d2c-9acd-22072140989e" />
+
+## Çalışan Profili
 <img width="284" alt="9" src="https://github.com/user-attachments/assets/c50bf2dc-dbcb-4ff3-b2f2-a2865b48f3fe" />
 <img width="284" alt="11" src="https://github.com/user-attachments/assets/7a7e33fd-3fb2-42f5-999f-6e32e2c5b6f5" />
 <img width="284" alt="10" src="https://github.com/user-attachments/assets/e6fd9fd2-a274-475d-b24f-a9d6bba8709f" />
