@@ -43,6 +43,7 @@ https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
 ## Ana Sayfa
 <img width="284" alt="2" src="https://github.com/user-attachments/assets/4ad7af0a-6b08-4271-bf4d-d0b7992e7ed7" />
 <img width="284" alt="3" src="https://github.com/user-attachments/assets/844a7438-595e-4778-9233-24b716b9a92a" />
+<img width="284" alt="4" src="https://github.com/user-attachments/assets/e2bea9c3-41a2-4b85-88b2-9239124e60ea" />
 
 ## Ürün Ekleme
 <img width="284" alt="12" src="https://github.com/user-attachments/assets/2c783c77-9cf4-41af-81e6-11cc01d9429f" />
@@ -54,9 +55,8 @@ https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
 <img width="284" alt="5" src="https://github.com/user-attachments/assets/c1591a48-742b-4d10-b152-8ecb10a13fec" />
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/02e7abb3-4f00-4260-975a-8e17600dda9c"/>
 
-
+## Müşteri Profili
 <img width="284" alt="7" src="https://github.com/user-attachments/assets/bd3d910e-d994-4151-b8ff-1dcee998bb85" />
-<img width="284" alt="4" src="https://github.com/user-attachments/assets/e2bea9c3-41a2-4b85-88b2-9239124e60ea" />
 
 ## Profil Ekranı
 <img width="284" alt="6" src="https://github.com/user-attachments/assets/1d3bbce4-be29-4d2c-9acd-22072140989e" />
