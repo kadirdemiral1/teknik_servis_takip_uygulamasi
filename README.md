@@ -1,4 +1,4 @@
-# 📱 Servis Takip Uygulaması
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/8a92476f-8138-41f6-8272-e94082a9ec5a" /># 📱 Servis Takip Uygulaması
 
 Servis Takip Uygulaması, teknik servis süreçlerini dijitalleştirmek amacıyla geliştirilmiş bir Android uygulamasıdır. Ürün kabulünden teslimata kadar olan tüm süreci yönetilebilir hale getirir. Müşteri takibi, personel görevlendirme, hizmet durumu güncellemeleri ve analiz ekranları ile servis işletmeleri için kapsamlı bir çözümdür.
 
@@ -48,8 +48,13 @@ https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
 <img width="284" alt="12" src="https://github.com/user-attachments/assets/2c783c77-9cf4-41af-81e6-11cc01d9429f" />
 <img width="284" alt="13" src="https://github.com/user-attachments/assets/dd8caf23-9c46-44b9-a751-b4b1fcf7f9cb" />
 <img width="284" alt="14" src="https://github.com/user-attachments/assets/513cab66-36df-434b-993a-0d91c13377c5" />
+
+## Ürün Sayfası
 <img width="284" alt="8" src="https://github.com/user-attachments/assets/fcb1be65-2454-4e8d-ba12-24fed91f001f" />
 <img width="284" alt="5" src="https://github.com/user-attachments/assets/c1591a48-742b-4d10-b152-8ecb10a13fec" />
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/02e7abb3-4f00-4260-975a-8e17600dda9c"/>
+
+
 <img width="284" alt="7" src="https://github.com/user-attachments/assets/bd3d910e-d994-4151-b8ff-1dcee998bb85" />
 <img width="284" alt="4" src="https://github.com/user-attachments/assets/e2bea9c3-41a2-4b85-88b2-9239124e60ea" />
 
