@@ -42,8 +42,8 @@ https://github.com/user-attachments/assets/56101512-a7a1-4731-b9c9-be446a1a1298
 
 ## Ana Sayfa
 <img width="284" alt="2" src="https://github.com/user-attachments/assets/4ad7af0a-6b08-4271-bf4d-d0b7992e7ed7" />
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/4900be26-17e0-4050-8846-bfd64933a5a5"/>
 <img width="284" alt="3" src="https://github.com/user-attachments/assets/844a7438-595e-4778-9233-24b716b9a92a" />
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/4900be26-17e0-4050-8846-bfd64933a5a5" />
 <img width="284" alt="4" src="https://github.com/user-attachments/assets/e2bea9c3-41a2-4b85-88b2-9239124e60ea" />
 
 ## Ürün Ekleme
