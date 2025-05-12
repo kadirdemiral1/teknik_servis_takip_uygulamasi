@@ -1,4 +1,4 @@
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/8a92476f-8138-41f6-8272-e94082a9ec5a" /># 📱 Servis Takip Uygulaması
+# 📱 Servis Takip Uygulaması
 
 Servis Takip Uygulaması, teknik servis süreçlerini dijitalleştirmek amacıyla geliştirilmiş bir Android uygulamasıdır. Ürün kabulünden teslimata kadar olan tüm süreci yönetilebilir hale getirir. Müşteri takibi, personel görevlendirme, hizmet durumu güncellemeleri ve analiz ekranları ile servis işletmeleri için kapsamlı bir çözümdür.
 
